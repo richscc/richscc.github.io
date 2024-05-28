@@ -1,0 +1,1 @@
+var json_foto_chiclayo_piura_10 = {"type":"FeatureCollection","name":"foto_chiclayo_piura_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"img":"D:\\User\\Imágenes\\chiclayo-piura.png","name":"foto_chiclayo_piura"},"geometry":{"type":"Point","coordinates":[-80.566996101535054,-5.673456977098089]}}]}
